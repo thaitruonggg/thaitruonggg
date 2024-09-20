@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on **Computer Vision** projects.
 - 🌱 I’m currently learning **AI, Machine Learning, Deep Learning**
-- 📫 How to reach me: ![[image](https://github.com/user-attachments/assets/a36251bd-8b54-4685-8750-09c113910631)](truonglamquocthai0603@gmail.com)
+- 📫 How to reach me: [<img src="https://vi.m.wikipedia.org/wiki/T%E1%BA%ADp_tin:Gmail_icon_%282020%29.svg">](truonglamquocthai0603@gmail.com)
 
 
